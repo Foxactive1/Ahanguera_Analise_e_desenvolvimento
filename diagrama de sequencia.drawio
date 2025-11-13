@@ -7,14 +7,15 @@
         <mxCell id="21e_SSPCO8AA1jtQZLhl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1" source="EyzAAGFOD0ROaaZXpAqq-7" target="EyzAAGFOD0ROaaZXpAqq-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="400" />
-              <mxPoint x="220" y="400" />
+              <mxPoint x="340" y="340" />
+              <mxPoint x="220" y="340" />
+              <mxPoint x="220" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="21e_SSPCO8AA1jtQZLhl-24" value="Dados do cartao()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-23">
           <mxGeometry x="-0.1049" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-7" value="interface banco" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
@@ -220,8 +221,30 @@
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-9" value="Pessoa Fisica" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="60" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" edge="1" parent="1" source="EyzAAGFOD0ROaaZXpAqq-2" target="EyzAAGFOD0ROaaZXpAqq-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="60" />
+              <mxPoint x="250" y="370" />
+              <mxPoint x="340" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-30" value="informar dados deposito()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-28">
+          <mxGeometry x="0.1453" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-2" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.391;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" edge="1" parent="1" source="EyzAAGFOD0ROaaZXpAqq-8" target="EyzAAGFOD0ROaaZXpAqq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-32" value="Atualizar conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-31">
+          <mxGeometry x="0.4788" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
