@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-26" value="dados da conta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EyzAAGFOD0ROaaZXpAqq-25" vertex="1" connectable="0">
           <mxGeometry x="0.0604" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="21e_SSPCO8AA1jtQZLhl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyzAAGFOD0ROaaZXpAqq-8" target="EyzAAGFOD0ROaaZXpAqq-10">
@@ -31,7 +31,7 @@
         </mxCell>
         <mxCell id="21e_SSPCO8AA1jtQZLhl-19" value="Abrir Conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-18">
           <mxGeometry x="0.1987" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-8" value="Controle Banco" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-17" value="1.1.1 Consultar cliente()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="EyzAAGFOD0ROaaZXpAqq-16" vertex="1" connectable="0">
           <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint x="21" y="-11" as="offset" />
+            <mxPoint x="-9" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.909;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EyzAAGFOD0ROaaZXpAqq-8" target="EyzAAGFOD0ROaaZXpAqq-9" edge="1">
