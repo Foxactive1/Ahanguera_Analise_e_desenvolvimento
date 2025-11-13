@@ -29,9 +29,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="21e_SSPCO8AA1jtQZLhl-19" value="Abrir Conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-18">
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-19" value="Abrir Conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];connectable=1;" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-18">
           <mxGeometry x="0.1987" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="-9" as="offset" />
+            <mxPoint x="51" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="21e_SSPCO8AA1jtQZLhl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="EyzAAGFOD0ROaaZXpAqq-8">
@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="21e_SSPCO8AA1jtQZLhl-22" value="Emitir Cartao conta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-21">
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-22" value="Emitir Cartao conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-21">
           <mxGeometry x="0.0469" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
