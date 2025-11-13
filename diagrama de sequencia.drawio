@@ -20,6 +20,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EyzAAGFOD0ROaaZXpAqq-8" target="EyzAAGFOD0ROaaZXpAqq-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="80" />
+              <mxPoint x="583" y="340" />
+              <mxPoint x="753" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21e_SSPCO8AA1jtQZLhl-19" value="Abrir Conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-18">
+          <mxGeometry x="0.1987" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-8" value="Controle Banco" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="35" width="85" height="90" as="geometry" />
         </mxCell>
@@ -180,7 +194,7 @@
         </mxCell>
         <mxCell id="21e_SSPCO8AA1jtQZLhl-17" value="Abrir Conta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-16">
           <mxGeometry x="-0.0783" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
