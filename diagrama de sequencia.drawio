@@ -31,14 +31,14 @@
         </mxCell>
         <mxCell id="21e_SSPCO8AA1jtQZLhl-19" value="Abrir Conta()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="21e_SSPCO8AA1jtQZLhl-18">
           <mxGeometry x="0.1987" y="1" relative="1" as="geometry">
-            <mxPoint x="-3" y="-19" as="offset" />
+            <mxPoint x="-3" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-8" value="Controle Banco" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="35" width="85" height="90" as="geometry" />
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-10" value="Conta Comum" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="670" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="730" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EyzAAGFOD0ROaaZXpAqq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.635;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
